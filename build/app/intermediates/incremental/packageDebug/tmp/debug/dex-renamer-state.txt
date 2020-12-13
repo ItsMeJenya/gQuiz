@@ -1,0 +1,4 @@
+#Sun Dec 13 20:43:36 EET 2020
+base.0=D\:\\FlutterOldComp\\GitProjects\\Quiz\\quiz\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
